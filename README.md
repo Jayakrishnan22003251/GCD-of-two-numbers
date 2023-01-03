@@ -34,7 +34,8 @@ b=int(input())
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![GCD](https://user-images.githubusercontent.com/120232371/210374640-2ac4ea61-515e-40e4-9e56-6decf7d3cce6.png)
+
 
 
 ## Result:
